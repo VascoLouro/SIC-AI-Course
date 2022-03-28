@@ -2,7 +2,7 @@
 >
 >## Drive
 >
->>[SIC-AI Course](https://drive.google.com/drive/u/1/folders/1hcRiOWmb0oNqOkUAbJxqo3h-_4qB2YHO)[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=yellow)](https://drive.google.com/drive/u/1/folders/1hcRiOWmb0oNqOkUAbJxqo3h-_4qB2YHO)
+>>[SIC-AI Course](https://drive.google.com/drive/u/1/folders/1hcRiOWmb0oNqOkUAbJxqo3h-_4qB2YHO)
 >
 >## Collab
 >
